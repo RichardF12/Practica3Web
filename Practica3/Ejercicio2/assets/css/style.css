@@ -1,0 +1,28 @@
+*{
+    margin: auto auto;
+}
+
+body{
+    background-color: white;
+}
+
+header{
+    text-align: center;
+    text-decoration-color: red;
+    text-decoration: underline;
+    padding: 5%;
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
