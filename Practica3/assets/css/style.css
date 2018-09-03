@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://vignette.wikia.nocookie.net/steamtradingcards/images/d/da/Resident_Evil_Biohazard_HD_REMASTER_Background_Main_Laboratory.jpg/revision/latest?cb=20150120150217");
+}
+
+h1{
+    text-align: center;
+    color: #b1c2be;
+    background: black;
+}
+
+button{
+    background-color: #031a14;
+    color: #2e8773;
+    padding: 0.5em 0.8em;
+    border: 2px solid #5e7973;
+    border-radius: 6px;
+    margin-top: 3em;
+    margin-left: 16em;
+    margin-bottom: 2em;
+}
